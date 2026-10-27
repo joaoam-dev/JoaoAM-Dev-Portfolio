@@ -1,0 +1,16 @@
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items:center;
+  background-color: rgba(0, 0, 0, 0);
+  height: 10vh;
+}
+
+header h1 {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 7vh;
+}

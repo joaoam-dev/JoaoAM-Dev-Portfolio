@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400..900&display=swap');
+
+* {
+  border: solid 1px;
+  border-color: rgba(0, 0, 251, 0); /*debug*/
+  font-family: "Orbitron", sans-serif;
+}
+
+body {
+  background-color:#010000;
+  color: aliceblue;
+  height: auto;
+  width: auto;
+}
+
+footer {
+  margin: none;
+  background-color: black;
+}
+
+hr {
+  color: aliceblue;
+}

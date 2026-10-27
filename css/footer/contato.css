@@ -1,0 +1,36 @@
+#contato {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    height: 40vh;
+}
+
+.categoria_contato {
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+}
+
+.categoria_contato a {
+    display: flex;
+    justify-content: center;
+
+}
+
+.categoria_contato img :hover {
+    border: solid 1px;
+    color: rgb(251, 251, 251);
+}
+
+.linkedin {
+    border-radius: 10px;
+}
+
+.github {
+    border-radius: 100%;
+}

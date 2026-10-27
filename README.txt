@@ -31,5 +31,6 @@ O projeto continuará sendo atualizado conforme eu adquirir novos conhecimentos 
 
 ## Créditos
 
-- **Ícones:** [Flaticon](https://www.flaticon.com/)
-- **Imagem da seção de introdução:** OpenClipart-Vectors, disponibilizada pelo [Canva](https://www.canva.com/)
+- **Ícones: Flaticon (https://www.flaticon.com/)
+- **Imagem da seção de introdução: Canva (https://www.canva.com/)
+- **Imagem da seção sobre: CITYPNG (https://www.citypng.com/)
